@@ -1,0 +1,7 @@
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\obj\Debug\WieleWatkowApp.csprojResolveAssemblyReference.cache
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\obj\Debug\WieleWatkowApp.csproj.CoreCompileInputs.cache
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\bin\Debug\WieleWatkowApp.exe.config
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\bin\Debug\WieleWatkowApp.exe
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\bin\Debug\WieleWatkowApp.pdb
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\obj\Debug\WieleWatkowApp.exe
+D:\Users\tomasz.pawlowski\source\repos\WieleWatkowApp\WieleWatkowApp\obj\Debug\WieleWatkowApp.pdb
